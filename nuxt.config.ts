@@ -18,7 +18,7 @@ export default defineNuxtConfig({
       appId: process.env.FIREBASE_MESSAGING_SENDER_ID
     },
   },
-  router: {
-    base: '/vocabulary-app/',
-  }
+  app: {
+    baseURL: '/vocabulary-app/',  // Set the base URL for the deployed app
+  },
 })
