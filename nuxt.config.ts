@@ -19,9 +19,6 @@ export default defineNuxtConfig({
     },
   },
   router: {
-    base: '/', // Root base URL
-  },
-  app: {
-    baseURL: '/', // Root base URL
-  },
+    base: '/vocabulary-app/',
+  }
 })
