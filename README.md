@@ -1,3 +1,7 @@
+https://esmaydogdu.github.io/vocabulary-app/
+
+Mini app to help my Dutch studies go ahead try for your use case!
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
