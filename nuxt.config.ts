@@ -19,6 +19,6 @@ export default defineNuxtConfig({
     },
   },
   app: {
-    baseURL: '/vocabulary-app/',  // Set the base URL for the deployed app
+    baseURL: '/vocabulary-app/',
   },
 })
