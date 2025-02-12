@@ -1,0 +1,1 @@
+import{K as s,u as n,v as a,x as r,t as c,Z as i,_ as u}from"./C3lbcwwy.js";const l={class:"row"},d={__name:"login",setup(_){const e=s(),o=n(),t=()=>{i(e,new u).then(()=>o.replace("/"))};return(h,p)=>(c(),a("div",l,[r("button",{onClick:t},"Sign in with Google")]))}};export{d as default};
